@@ -1,0 +1,9 @@
+D:\IdeaProjects\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+D:\IdeaProjects\CalculatorClient\bin\Debug\CalculatorClient.exe
+D:\IdeaProjects\CalculatorClient\bin\Debug\CalculatorClient.pdb
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.Properties.Resources.resources
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.csproj.GenerateResource.cache
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.exe
+D:\IdeaProjects\CalculatorClient\obj\Debug\CalculatorClient.pdb
